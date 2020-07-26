@@ -1,6 +1,6 @@
 ﻿# mikavue
 
-## How to use?
+## 学习vuejs源码，测试demo
 ```
   <div id="app">
 	<p v-text="message"></p>
@@ -27,19 +27,19 @@
   </script>
 ```
 
-## Supported Features
+## 目前支持的功能
 
 `v-on:click`, `v-text`, `v-model`
 
 
 
-## Build Setup
+## 构建方法
 
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 开发环境构建,devserver localhost:8080
 npm run dev
 
-# build for production with minification
+# 生产环境构建
 npm run build
