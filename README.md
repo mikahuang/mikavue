@@ -1,6 +1,6 @@
 ﻿# mikavue
 
-## 学习vuejs源码，测试demo
+## 研究学习vuejsV1.0源码后，自己实现的mikavue，测试demo
 ```
   <div id="app">
 	<p v-text="message"></p>
